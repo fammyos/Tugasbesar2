@@ -1,0 +1,12 @@
+section {
+    min-height: 420px;
+}
+
+.social {
+    font-size: 1.5rem;
+}
+
+.card-img-top:hover {
+    transition: all 0.5s;
+    transform: scale(1.1);
+}
